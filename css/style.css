@@ -2,3 +2,7 @@
    font-family:Arial, Helvetica, sans-serif;
 }
 
+.frame{
+   position: relative;
+   padding-top: 50px;
+}
